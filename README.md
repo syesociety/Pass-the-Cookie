@@ -5,4 +5,6 @@ There is no need to install modules, the only thing that needs to be installed i
 
 telegram token ("") #Telegram Bot ID
 botSend("") #Telegram ID
+
+
 pyinstaller --onefile script.py
